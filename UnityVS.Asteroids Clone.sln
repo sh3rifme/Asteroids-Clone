@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Asteroids Clone.CSharp.Plugins", "UnityVS.Asteroids Clone.CSharp.Plugins.csproj", "{CA6C31DE-1011-69A4-72BE-02C8A98C854B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Asteroids Clone.CSharp", "UnityVS.Asteroids Clone.CSharp.csproj", "{22504D6F-FB18-D270-451F-0206DBF97F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Asteroids Clone.CSharp.Editor", "UnityVS.Asteroids Clone.CSharp.Editor.csproj", "{36FC1365-29CC-BE95-5B5C-9D2A99589C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6C31DE-1011-69A4-72BE-02C8A98C854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6C31DE-1011-69A4-72BE-02C8A98C854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6C31DE-1011-69A4-72BE-02C8A98C854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6C31DE-1011-69A4-72BE-02C8A98C854B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22504D6F-FB18-D270-451F-0206DBF97F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22504D6F-FB18-D270-451F-0206DBF97F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22504D6F-FB18-D270-451F-0206DBF97F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22504D6F-FB18-D270-451F-0206DBF97F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FC1365-29CC-BE95-5B5C-9D2A99589C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FC1365-29CC-BE95-5B5C-9D2A99589C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FC1365-29CC-BE95-5B5C-9D2A99589C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FC1365-29CC-BE95-5B5C-9D2A99589C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
